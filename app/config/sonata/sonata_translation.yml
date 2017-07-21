@@ -1,5 +1,5 @@
 sonata_translation:
-    locales: [en, pl, ru, de, fr, pt_BR]
+    locales: [en, es, fr]
     default_locale: en
     # here enable the types you need
     gedmo:
